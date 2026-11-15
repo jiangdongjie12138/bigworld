@@ -1,0 +1,15 @@
+# Local Visual Studio state and generated debug symbols
+*.suo
+*.pdb
+.vs/
+*.user
+
+# Generated CMake and Python files
+CMakeFiles/
+CMakeCache.txt
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime log included with the OpenAutomate sample
+programming/bigworld/third_party/openautomate/python.log
